@@ -31,9 +31,9 @@ It is launched in the presence of eminent personalities like Prof Bechan Lal Sir
 
 ## Old vs New
 
-![](https://github.com/Trilokia/CLUJ-website/screenshots/new_web_view.png)
-![](https://github.com/Trilokia/CLUJ-website/screenshots/old_web_view.png)
-![](https://github.com/Trilokia/CLUJ-website/screenshots/new_mobile_view.png)
-![](https://github.com/Trilokia/CLUJ-website/screenshots/old_mobile_view.png)
-![](https://github.com/Trilokia/CLUJ-website/screenshots/web.png)
-![](https://github.com/Trilokia/CLUJ-website/screenshots/mobile.png)
+![](https://github.com/Trilokia/CLUJ-website/blob/main/screenshots/new_web_view.jpg)
+![](https://github.com/Trilokia/CLUJ-website/blob/main/screenshots/old_web_view.jpg)
+![](https://github.com/Trilokia/CLUJ-website/blob/main/screenshots/new_mobile_view.jpg)
+![](https://github.com/Trilokia/CLUJ-website/blob/main/screenshots/old_mobile_view.jpg)
+![](https://github.com/Trilokia/CLUJ-website/blob/main/screenshots/web.png)
+![](https://github.com/Trilokia/CLUJ-website/blob/main/screenshots/mobile.png)
